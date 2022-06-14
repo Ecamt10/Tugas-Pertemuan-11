@@ -1,1 +1,1 @@
-59/23**0 mysqld -u root klinik_312010163 > backup2.sql
+59/23**0 mysql -u root klinik_312010163 > backup2.sql
