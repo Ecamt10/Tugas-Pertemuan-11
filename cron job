@@ -1,0 +1,1 @@
+59/23**0 mysqldump -u root klinik_312010163 > backup2.sql
